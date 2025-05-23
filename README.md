@@ -2,9 +2,12 @@
 
 Welcome to the source code repository for my personal portfolio website! This website showcases my projects, skills, resume, and ways to contact me. It's built to reflect my journey and interests as a B.Tech CSE student with a passion for AI and Software Development.
 
-## 🌐 Live Site
+## 🌐 Site Outlook
 
-[▶️ Watch Demo Video](https://yourdomain.com/video.mp4)
+![Image1](path/to/image.png)
+---
+![Image1](path/to/image.png)
+
 
 
 ---

@@ -4,7 +4,7 @@ Welcome to the source code repository for my personal portfolio website! This we
 
 ## 🌐 Site Outlook
 
-![Image1](path/to/image.png)
+![Image1](https://github.com/Anshika-111105/Portfolio-Website/blob/main/image1.0.png)
 ---
 ![Image1](path/to/image.png)
 
